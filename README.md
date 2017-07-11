@@ -1,4 +1,4 @@
-[v0.0.4](https://github.com/littleflute/Bob-Dylan7/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/Bob-Dylan7/edit/master/README.md)
 
 [The 1966 Live Recordings Disc 28](The 1966 Live Recordings Disc 28)
 
@@ -32,4 +32,6 @@
 [https://littleflute.github.io/Bob-Dylan6](https://littleflute.github.io/Bob-Dylan6)
 
 [https://littleflute.github.io/Bob-Dylan7](https://littleflute.github.io/Bob-Dylan7)
+
+[https://littleflute.github.io/Bob-Dylan8](https://littleflute.github.io/Bob-Dylan8)
 
