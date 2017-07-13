@@ -1,0 +1,9 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 She Belongs to Me [Live][Live From London 5-26-66].mp3";		
+f[2]	= "02 Fourth Time Around [Live][Live From London 5-26-66].mp3";		
+f[3]	= "03 Visions of Johanna [Live][Live From London 5-26-66].mp3";		
+f[4]	= "04 It's All Over Now, Baby Blue [Live][Live From London 5-26-66].mp3";		
+f[5]	= "05 Desolation Row [Live][Live From London 5-26-66].mp3";		
+f[6]	= "06 Just Like a Woman [Live][Live From London 5-26-66].mp3";		
+f[7]	= "07 Mr. Tambourine Man [Live][Live From London 5-26-66].mp3";		
