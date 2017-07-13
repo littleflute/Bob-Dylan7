@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 She Belongs to Me [Live][Live From Stockholm 4-29-66].mp3";		
+f[2]	= "02 Fourth Time Around [Live][Live From Stockholm 4-29-66].mp3";		
+f[3]	= "03 Visions of Johanna [Live][Live From Stockholm 4-29-66].mp3";		
+f[4]	= "04 It's All Over Now, Baby Blue [Live][Live From Stockholm 4-29-66].mp3";		
+f[5]	= "05 Desolation Row [Live][Live From Stockholm 4-29-66].mp3";		
+f[6]	= "06 I Don't Believe You [She Acts Like We Never Have Met] [Live From Stockh.mp3";		
+f[7]	= "07 Baby, Let Me Follow You Down [Live][Live From Stockholm 4-29-66].mp3";		
+f[8]	= "08 Just Like Tom Thumb's Blues [Live][Live From Stockholm 4-29-66].mp3";		
+f[9]	= "09 Leopard-Skin Pill-Box Hat [Live][Live From Stockholm 4-29-66].mp3";		
+f[10]	= "10 One Too Many Mornings [Live][Live From Stockholm 4-29-66].mp3";		
+f[11]	= "11 Ballad of a Thin Man [Live][Live From Stockholm 4-29-66].mp3";		
