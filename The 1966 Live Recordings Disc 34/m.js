@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 She Belongs to Me [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[2]	= "02 Fourth Time Around [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[3]	= "03 Visions of Johanna [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[4]	= "04 It's All Over Now, Baby Blue [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[5]	= "05 Desolation Row [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[6]	= "06 Love Minus Zero-No Limit [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[7]	= "07 Mr. Tambourine Man [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[8]	= "08 Tell Me, Momma [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[9]	= "09 I Don't Believe You [She Acts Like We Never Have Met] [Live From Hempst.mp3";		
+f[10]	= "10 Baby, Let Me Follow You Down [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[11]	= "11 Just Like Tom Thumb's Blues [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[12]	= "12 Leopard-Skin Pill-Box Hat [Live][Live From Hempstead, NY 2-26-66].mp3";		
+f[13]	= "13 One Too Many Mornings [Incomplete] [Live From Hempstead, NY 2-26-66] [L.mp3";		
