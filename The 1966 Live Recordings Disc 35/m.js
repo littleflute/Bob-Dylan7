@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 She Belongs to Me [Live][Live From Melbourne 4-19-66].mp3";		
+f[2]	= "02 Fourth Time Around [Live][Live From Melbourne 4-19-66].mp3";		
+f[3]	= "03 Visions of Johanna [Live][Live From Melbourne 4-19-66].mp3";		
+f[4]	= "04 It's All Over Now, Baby Blue [Live][Live From Melbourne 4-19-66].mp3";		
+f[5]	= "05 Desolation Row [Live][Live From Melbourne 4-19-66].mp3";		
+f[6]	= "06 Just Like a Woman [Live][Live From Melbourne 4-19-66].mp3";		
+f[7]	= "07 Mr. Tambourine Man [Live][Live From Melbourne 4-19-66].mp3";		
+f[8]	= "08 Tell Me, Momma [Live][Live From Melbourne 4-19-66].mp3";		
+f[9]	= "09 I Don't Believe You [She Acts Like We Never Have Met] [Live From Melbou.mp3";		
+f[10]	= "10 Baby, Let Me Follow You Down [Live][Live From Melbourne 4-19-66].mp3";		
+f[11]	= "11 Just Like Tom Thumb's Blues [Live][Live From Melbourne 4-19-66].mp3";		
+f[12]	= "12 Leopard-Skin Pill-Box Hat [Fragment] [Live From Melbourne 4-19-66] [Liv.mp3";		
