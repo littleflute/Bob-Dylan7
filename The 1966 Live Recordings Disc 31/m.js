@@ -1,0 +1,10 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Tell Me, Momma [Live][Live From London 5-27-66].mp3";		
+f[2]	= "02 I Don't Believe You [She Acts Like We Never Have Met] [Live From London.mp3";		
+f[3]	= "03 Baby, Let Me Follow You Down [Live][Live From London 5-27-66].mp3";		
+f[4]	= "04 Just Like Tom Thumb's Blues [Live][Live From London 5-27-66].mp3";		
+f[5]	= "05 Leopard-Skin Pill-Box Hat [Live][Live From London 5-27-66].mp3";		
+f[6]	= "06 One Too Many Mornings [Live][Live From London 5-27-66].mp3";		
+f[7]	= "07 Ballad of a Thin Man [Live][Live From London 5-27-66].mp3";		
+f[8]	= "08 Like a Rolling Stone [Live][Live From London 5-27-66].mp3";		
