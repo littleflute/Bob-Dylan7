@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 She Belongs to Me [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[2]	= "02 To Ramona [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[3]	= "03 Visions of Johanna [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[4]	= "04 It's All Over Now, Baby Blue [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[5]	= "05 Desolation Row [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[6]	= "06 Love Minus Zero - No Limit [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[7]	= "07 Mr. Tambourine Man [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[8]	= "08 Tell Me, Momma [Live][Live From White Plains, NY 2-5-66].mp3";		
+f[9]	= "09 I Don't Believe You [She Acts Like We Never Have Met] [Incomplete] [Liv.mp3";		
